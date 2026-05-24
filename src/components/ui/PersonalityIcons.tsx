@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { useRef } from 'react'
 import { motion, useAnimationFrame } from 'framer-motion'
 import React from 'react'
 
